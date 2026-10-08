@@ -1,0 +1,7 @@
+algorithm,exploitability_ma,first_bluffs_jack,first_bets_king,first_bets_queen,first_calls_with_queen,second_bluffs_jack,second_calls_with_queen
+cfr,0.6762196803,0.205,0.624,0.0,0.541,0.336,0.333
+lcfr,0.000836359216,0.218,0.655,0.0,0.552,0.333,0.333
+dcfr,0.0007052626498,0.187,0.562,0.0,0.521,0.333,0.333
+cfr+,0.002142055842,0.233,0.699,0.0,0.566,0.333,0.333
+mccfr,0.6240957383,0.324,0.972,0.0,0.66,0.332,0.336
+linear program,0.0,0.0,0.0,0.0,0.333,0.333,0.333
